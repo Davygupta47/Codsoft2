@@ -1,7 +1,9 @@
 CodSoft Team,
+
 I wanted to take a moment to express my sincere gratitude for the remote internship experience in machine learning. Working independently on each project provided a unique opportunity to develop my technical skills and gain hands-on exposure to real-world applications. The guidance and support I received were invaluable in helping me navigate challenges and deepen my understanding.
 
 Thank you for this opportunity, which has greatly contributed to my growth. I look forward to applying what I've learned in future projects.
+
 Dwaipayan Dasgupta
 
 # Codsoft2
@@ -33,9 +35,11 @@ Results
 The models' performances are displayed through various metrics and visualizations.
 
 Sample Confusion Matrix:
+
 ![image](https://github.com/user-attachments/assets/50f1434c-5871-4784-a534-f24cf897ce94)
 
 Sample ROC Curve:
+
 ![image](https://github.com/user-attachments/assets/886359bf-7715-4d30-8cee-4f963fcb53e6)
 
 Contributing
